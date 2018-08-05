@@ -1,0 +1,14 @@
+uuid: ec49f690-9dd6-4dde-984b-1f4809651355
+name: 'Tome, in a sub directory?'
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

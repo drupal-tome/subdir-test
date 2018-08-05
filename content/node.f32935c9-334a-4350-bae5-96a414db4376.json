@@ -1,0 +1,109 @@
+{
+    "uuid": [
+        {
+            "value": "f32935c9-334a-4350-bae5-96a414db4376"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "6e7fd52f-0f8a-4542-bcd6-4f1efea88f3f"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-08-05T16:30:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "fb9174b2-c32a-46b9-a405-3cdeb7a58882"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Remember when we used to do this on Drupal.org?"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "fb9174b2-c32a-46b9-a405-3cdeb7a58882"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-08-05T16:28:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-05T16:30:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "A screenshot of a not-so-bright guy",
+            "title": "",
+            "width": 764,
+            "height": 118,
+            "target_type": "file",
+            "target_uuid": "2c50026f-74bd-42cc-9b25-73cb771de6eb"
+        }
+    ],
+    "field_tags": []
+}

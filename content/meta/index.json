@@ -1,0 +1,13 @@
+{
+    "shortcut.bf1fa6f0-c151-4418-8820-c48f9f021a85": [],
+    "shortcut.ee093e4c-7c76-4acc-b889-a5511f0fccfb": [],
+    "user.8fe7298b-a1cf-4542-877c-636e12eb96e1": [],
+    "user.fb9174b2-c32a-46b9-a405-3cdeb7a58882": [],
+    "file.2c50026f-74bd-42cc-9b25-73cb771de6eb": [
+        "user.fb9174b2-c32a-46b9-a405-3cdeb7a58882"
+    ],
+    "node.f32935c9-334a-4350-bae5-96a414db4376": [
+        "user.fb9174b2-c32a-46b9-a405-3cdeb7a58882",
+        "file.2c50026f-74bd-42cc-9b25-73cb771de6eb"
+    ]
+}
