@@ -85,16 +85,6 @@
         }
     ],
     "body": [],
-    "comment": [
-        {
-            "status": 2,
-            "cid": 0,
-            "last_comment_timestamp": 0,
-            "last_comment_name": "",
-            "last_comment_uid": 0,
-            "comment_count": 0
-        }
-    ],
     "field_image": [
         {
             "alt": "A screenshot of a not-so-bright guy",
