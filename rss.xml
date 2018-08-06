@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://tome.fyi/subdir-test/rss.xml">
+  <channel>
+    <title>Tome, in a sub directory?</title>
+    <link>https://tome.fyi/subdir-test/rss.xml</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Remember when we used to do this on Drupal.org?</title>
+  <link>https://tome.fyi/subdir-test/node/1</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Remember when we used to do this on Drupal.org?&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://tome.fyi/subdir-test/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-08-05T16:28:51+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Sun, 08/05/2018 - 16:28&lt;/span&gt;
+</description>
+  <pubDate>Sun, 05 Aug 2018 16:28:51 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1 at https://tome.fyi/subdir-test</guid>
+    </item>
+
+  </channel>
+</rss>
