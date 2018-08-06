@@ -27,6 +27,7 @@
         "drupal-tome/tome_drush": "dev-master"
     },
     "scripts": {
+        "gh-pages": "./scripts/gh-pages.sh",
         "symlink": "./scripts/symlink.sh",
         "post-install-cmd": [
             "@composer drupal:scaffold",
